@@ -21,4 +21,3 @@ module.exports = function toReadable (number) {
   return result
 };
 
-console.log(toReadable(1));
